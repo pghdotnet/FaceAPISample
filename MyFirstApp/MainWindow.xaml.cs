@@ -109,7 +109,7 @@ namespace MyFirstApp
             {
                 using (Stream imageFileStream = File.OpenRead(imageFilePath))
                 {
-                    var faces = await faceServiceClient.DetectAsync(imageFileStream);
+                    var faces = await faceServiceClient.DetectAsync(imageFileStream, true, true, true, true);
 
                     var faceRects = faces.Select(face => face.FaceRectangle);
 
