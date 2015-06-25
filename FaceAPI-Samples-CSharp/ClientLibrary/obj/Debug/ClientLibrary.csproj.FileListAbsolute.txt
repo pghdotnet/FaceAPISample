@@ -1,0 +1,7 @@
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\MyFirstApp\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\ClientLibrary.dll
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\MyFirstApp\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\ClientLibrary.pdb
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\MyFirstApp\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\MyFirstApp\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\MyFirstApp\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\MyFirstApp\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.dll
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\MyFirstApp\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.pdb

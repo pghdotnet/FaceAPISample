@@ -1,0 +1,17 @@
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MainWindow.baml
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MainWindow.g.cs
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\App.g.cs
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.cache
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.g.resources
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.Cache
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\ClientLibrary.dll
+c:\users\josh\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\ClientLibrary.pdb
